@@ -1,0 +1,2 @@
+/usr/bin/x86_64-linux-gnu-ar qc libcore.a CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.o CMakeFiles/core.dir/scanner.cpp.o
+/usr/bin/x86_64-linux-gnu-ranlib libcore.a

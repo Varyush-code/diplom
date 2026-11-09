@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "" "core/core_autogen/timestamp" "custom" "core/core_autogen/deps"
+  "/home/varyusha/diplom/build/Desktop-Debug/core/core_autogen/mocs_compilation.cpp" "core/CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.o" "gcc" "core/CMakeFiles/core.dir/core_autogen/mocs_compilation.cpp.o.d"
+  "/home/varyusha/diplom/core/scanner.cpp" "core/CMakeFiles/core.dir/scanner.cpp.o" "gcc" "core/CMakeFiles/core.dir/scanner.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

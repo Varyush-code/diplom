@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-699584bcbf4d1745404b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "diplom",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "diplom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diplom-Debug-ab991936cbba1bd34cf0.json",
+					"name" : "diplom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diplom_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diplom_autogen-Debug-e9007103e898e942f1e3.json",
+					"name" : "diplom_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "diplom_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-diplom_autogen_timestamp_deps-Debug-de232ce5853885cf206b.json",
+					"name" : "diplom_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/varyusha/diplom/build/Desktop-Debug",
+		"source" : "/home/varyusha/diplom"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

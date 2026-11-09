@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++ -DQT_QML_DEBUG -g CMakeFiles/diplom.dir/diplom_autogen/mocs_compilation.cpp.o CMakeFiles/diplom.dir/main.cpp.o CMakeFiles/diplom.dir/mainwindow.cpp.o -o diplom  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13 core/libcore.a /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13 

@@ -1,0 +1,3 @@
+/home/varyusha/diplom/core/build/CMakeFiles/core.dir
+/home/varyusha/diplom/core/build/CMakeFiles/edit_cache.dir
+/home/varyusha/diplom/core/build/CMakeFiles/rebuild_cache.dir

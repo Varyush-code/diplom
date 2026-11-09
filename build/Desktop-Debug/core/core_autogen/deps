@@ -1,0 +1,5 @@
+core_autogen/timestamp: \
+	/home/varyusha/diplom/core/CMakeLists.txt \
+	/home/varyusha/diplom/core/scanner.cpp \
+	/home/varyusha/diplom/core/scanner.h \
+	/usr/bin/cmake
